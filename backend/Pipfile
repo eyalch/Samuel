@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 Django = "==3.0.7"
 djangorestframework = "==3.10.3"
-Pillow = "==6.2.2"
+Pillow = "==8.2.0"
 psycopg2 = "==2.8.5"
 daphne = "==2.4.1"
 django-environ = "==0.4.5"
